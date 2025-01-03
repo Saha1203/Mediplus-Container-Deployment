@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/ba487f88-d3c5-416b-9f58-e989f11cd9c7)
+
 # Jenkins CI/CD Pipeline Project: Automating with Ansible, Docker, GitHub Webhooks, and AWS! 🚀  
 
 Welcome to an exciting project that brings together the best of **DevOps practices**! In this hands-on tutorial, you'll learn how to build a robust **Continuous Integration/Continuous Deployment (CI/CD)** pipeline using **Jenkins**, **Ansible**, **Docker**, and **GitHub Webhooks**, all deployed seamlessly on **Amazon Web Services (AWS)**.  
